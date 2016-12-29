@@ -1,0 +1,81 @@
+2016-12-29 09:44:45.380 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.ConfigUtils: Get the config file: /Users/ningpuyong/Downloads/weidian_web_test.git/classes/config.properties
+2016-12-29 09:44:45.385 ERROR com.wd.libarary.Log 41 error - com.wd.libarary.DriverFactory: /Users/ningpuyong/Downloads/weidian_web_test.git/classes/config.properties (No such file or directory)
+2016-12-29 09:44:45.386 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.DriverFactory: maxRunCount=0
+2016-12-29 09:44:45.475 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.ConfigUtils: Get the config file: /Users/ningpuyong/Downloads/weidian_web_test.git/config.properties
+2016-12-29 09:44:45.477 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.DriverFactory: chrome driver path is /Users/ningpuyong/Downloads/weidian_web_test.git/webDriver/chromedriver
+2016-12-29 09:44:48.501 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.DriverFactory: Create ChromeDrive 
+2016-12-29 09:44:48.501 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.Before: Start WebDriver
+2016-12-29 09:44:48.508 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.HomePage: find element By cssSelector
+2016-12-29 09:44:50.249 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.LoginPage: find element By cssSelector
+2016-12-29 09:44:50.277 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.LoginPage: type value is:  12344734232
+2016-12-29 09:44:50.389 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.LoginPage: find element By cssSelector
+2016-12-29 09:44:50.431 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.LoginPage: type value is:  123456
+2016-12-29 09:44:50.481 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.LoginPage: find element By cssSelector
+2016-12-29 09:44:50.503 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.LoginPage: click button
+2016-12-29 09:44:53.810 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.HomePage: find element By cssSelector
+2016-12-29 09:44:53.842 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.PageFactory: page name is com.wd.web.page.HomePage
+2016-12-29 09:44:53.846 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Start
+2016-12-29 09:44:53.867 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:44:55.881 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:44:55.898 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:44:56.966 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.PageFactory: page name is com.wd.web.page.SubAccountManagePage
+2016-12-29 09:44:59.969 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:44:59.988 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:00.049 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:00.184 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:03.256 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:03.274 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: type value is:  123456
+2016-12-29 09:45:03.337 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:03.367 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: type value is:  123457
+2016-12-29 09:45:03.444 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:03.469 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:06.521 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: get test
+2016-12-29 09:45:06.530 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Success
+2016-12-29 09:45:06.533 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:45:08.541 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:08.552 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:08.614 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.PageFactory: page name is com.wd.web.page.SubAccountManagePage
+2016-12-29 09:45:11.620 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:11.631 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:11.688 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:11.699 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:14.754 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:14.763 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: type value is:  123456
+2016-12-29 09:45:14.821 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:14.831 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: type value is:  123456
+2016-12-29 09:45:14.881 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:14.893 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:17.932 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: get test
+2016-12-29 09:45:17.939 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Success
+2016-12-29 09:45:17.943 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:45:20.949 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Success
+2016-12-29 09:45:20.953 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:45:22.960 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:22.969 INFO  com.wd.libarary.Log 25 info - com.wd.web.page.SubAccountManagePage: click button
+2016-12-29 09:45:23.005 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.PageFactory: page name is com.wd.web.page.SubAccountManagePage
+2016-12-29 09:45:25.011 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:25.534 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:26.045 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:26.560 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:27.070 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:27.583 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:28.094 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:28.607 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:29.123 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:29.634 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:30.149 DEBUG com.wd.libarary.Log 33 debug - com.wd.web.page.SubAccountManagePage: find element By cssSelector
+2016-12-29 09:45:30.161 ERROR com.wd.libarary.Log 41 error - com.wd.libarary.TestNGListener: Test Failure
+2016-12-29 09:45:30.167 INFO  com.wd.libarary.Log 25 info - com.wd.web.tests.SubAccountManagementTest: /Users/ningpuyong/Downloads/weidian_web_test.git
+2016-12-29 09:45:30.680 INFO  com.wd.libarary.Log 25 info - com.wd.web.tests.SubAccountManagementTest: save snapshot path is:/Users/ningpuyong/Downloads/weidian_web_test.git/logs/imgs/subAccountDisable.png
+2016-12-29 09:45:30.706 INFO  com.wd.libarary.Log 25 info - com.wd.web.tests.SubAccountManagementTest: screen shot finished
+2016-12-29 09:45:30.715 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:45:33.723 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Success
+2016-12-29 09:45:33.727 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finsh
+2016-12-29 09:45:36.734 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Success
+2016-12-29 09:45:36.738 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: Test Finish
+2016-12-29 09:45:36.739 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: PassedTests = subAccountEnable
+2016-12-29 09:45:36.740 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: PassedTests = subAccounEnaableCancel
+2016-12-29 09:45:36.740 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: PassedTests = subAccountDisableCancel
+2016-12-29 09:45:36.740 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: PassedTests = editSubaccountpasswardfail
+2016-12-29 09:45:36.741 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: PassedTests = editSubaccountpasswardsucess
+2016-12-29 09:45:36.741 INFO  com.wd.libarary.Log 25 info - com.wd.libarary.TestNGListener: failedTest = subAccountDisable

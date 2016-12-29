@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="com.wd.libarary.RetryListener"/>
+  </listeners>
+  <test name="TestDebug">
+    <classes>
+      <class name="com.wd.libarary.Before"/>
+      <class name="com.wd.web.tests.SubAccountManagementTest"/>
+    </classes>
+  </test> <!-- TestDebug -->
+  <test name="TestDebug(failed)">
+    <classes>
+      <class name="com.wd.libarary.Before">
+        <methods>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.wd.libarary.Before -->
+      <class name="com.wd.web.tests.SubAccountManagementTest">
+        <methods>
+          <include name="subAccountDisable"/>
+        </methods>
+      </class> <!-- com.wd.web.tests.SubAccountManagementTest -->
+    </classes>
+  </test> <!-- TestDebug(failed) -->
+</suite> <!-- Failed suite [Suite] -->
